@@ -58,10 +58,4 @@ https://github.com/ionic-team/ionic-app-scripts/blob/master/config/webpack.confi
 module.exports = {
   dev: useDefaultConfig,
   prod: useDefaultConfig
-}
-*/
-
-/*
-"tabs-page": [ "pages/tabs/tabs" ]
-"tabs-page": path.resolve('./src/pages/tabs/tabs.ts')
-*/
+};

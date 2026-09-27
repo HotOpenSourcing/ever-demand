@@ -17,7 +17,6 @@
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -43,7 +42,6 @@ testem.log
 Thumbs.db
 /admin/website-angular/yarn-error.log
 
-.env
 *.lerna_backup
 
 /packages/core/tsconfig.build.tsbuildinfo
@@ -52,3 +50,4 @@ Thumbs.db
 /packages/common/*.tsbuildinfo
 /packages/core/*.tsbuildinfo
 /packages/shop-mobile-ionic/package-lock.json
+config.bat
